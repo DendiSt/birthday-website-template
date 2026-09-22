@@ -1,0 +1,202 @@
+{
+  "recipientName": "Nama Pacar",
+  "pinHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+  "birthdayDate": "2026-01-01",
+  "musicUrl": "/music/song.mp3",
+  "openingMessage": "Teks Dummy",
+  "reasonsLove": [
+    "Teks Dummy (Silakan diubah nanti)",
+    "Teks Dummy (Silakan diubah nanti)",
+    "Teks Dummy (Silakan diubah nanti)",
+    "Teks Dummy (Silakan diubah nanti)",
+    "Teks Dummy (Silakan diubah nanti)",
+    "Teks Dummy (Silakan diubah nanti)",
+    "Teks Dummy (Silakan diubah nanti)",
+    "Teks Dummy (Silakan diubah nanti)",
+    "Teks Dummy (Silakan diubah nanti)",
+    "Teks Dummy (Silakan diubah nanti)",
+    "Teks Dummy (Silakan diubah nanti)",
+    "Teks Dummy (Silakan diubah nanti)",
+    "Teks Dummy (Silakan diubah nanti)",
+    "Teks Dummy (Silakan diubah nanti)"
+  ],
+  "sections": [
+    {
+      "id": "pertama-bertemu",
+      "title": "Judul Dummy",
+      "date": "1 Januari 2026",
+      "description": "Ini adalah deskripsi atau konten teks dummy. Silakan diganti dengan pesan Anda sendiri.",
+      "flower": "sakura",
+      "photos": [
+        "/photos/1.jpg"
+      ]
+    },
+    {
+      "id": "first-date",
+      "title": "Judul Dummy",
+      "date": "1 Januari 2026",
+      "description": "Ini adalah deskripsi atau konten teks dummy. Silakan diganti dengan pesan Anda sendiri.",
+      "flower": "tulip",
+      "photos": [
+        "/photos/1.jpg",
+        "/photos/1.jpg"
+      ]
+    },
+    {
+      "id": "jalan-mengesankan",
+      "title": "Judul Dummy",
+      "date": "1 Januari 2026",
+      "description": "Ini adalah deskripsi atau konten teks dummy. Silakan diganti dengan pesan Anda sendiri.",
+      "flower": "lavender",
+      "photos": [
+        "/photos/1.jpg",
+        "/photos/1.jpg"
+      ]
+    },
+    {
+      "id": "moment-penting",
+      "title": "Judul Dummy",
+      "date": "1 Januari 2026",
+      "description": "Ini adalah deskripsi atau konten teks dummy. Silakan diganti dengan pesan Anda sendiri.",
+      "flower": "rose",
+      "photos": [
+        "/photos/1.jpg",
+        "/photos/1.jpg"
+      ]
+    },
+    {
+      "id": "anniversary",
+      "title": "Judul Dummy",
+      "date": "1 Januari 2026",
+      "description": "Ini adalah deskripsi atau konten teks dummy. Silakan diganti dengan pesan Anda sendiri.",
+      "flower": "daisy",
+      "photos": [
+        "/photos/1.jpg",
+        "/photos/1.jpg"
+      ]
+    }
+  ],
+  "loveLetter": {
+    "title": "Judul Dummy",
+    "content": "Ini adalah deskripsi atau konten teks dummy. Silakan diganti dengan pesan Anda sendiri.",
+    "senderName": "Nama Anda",
+    "surroundingPhotos": [
+      "/photos/1.jpg",
+      "/photos/1.jpg",
+      "/photos/1.jpg",
+      "/photos/1.jpg"
+    ]
+  },
+  "video": {
+    "url": "/videos/kenangan.mp4",
+    "title": "Judul Dummy",
+    "description": "Ini adalah deskripsi atau konten teks dummy. Silakan diganti dengan pesan Anda sendiri."
+  },
+  "wishWall": [
+    {
+      "sender": "Teks Dummy",
+      "message": "Teks Dummy"
+    },
+    {
+      "sender": "Teks Dummy",
+      "message": "Teks Dummy"
+    },
+    {
+      "sender": "Teks Dummy",
+      "message": "Teks Dummy"
+    },
+    {
+      "sender": "Teks Dummy",
+      "message": "Teks Dummy"
+    },
+    {
+      "sender": "Teks Dummy",
+      "message": "Teks Dummy"
+    },
+    {
+      "sender": "Teks Dummy",
+      "message": "Teks Dummy"
+    },
+    {
+      "sender": "Teks Dummy",
+      "message": "Teks Dummy"
+    },
+    {
+      "sender": "Teks Dummy",
+      "message": "Teks Dummy"
+    },
+    {
+      "sender": "Teks Dummy",
+      "message": "Teks Dummy"
+    },
+    {
+      "sender": "Teks Dummy",
+      "message": "Teks Dummy"
+    },
+    {
+      "sender": "Teks Dummy",
+      "message": "Teks Dummy"
+    },
+    {
+      "sender": "Teks Dummy",
+      "message": "Teks Dummy"
+    },
+    {
+      "sender": "Teks Dummy",
+      "message": "Teks Dummy"
+    },
+    {
+      "sender": "Teks Dummy",
+      "message": "Teks Dummy"
+    },
+    {
+      "sender": "Teks Dummy",
+      "message": "Teks Dummy"
+    },
+    {
+      "sender": "Teks Dummy",
+      "message": "Teks Dummy"
+    },
+    {
+      "sender": "Teks Dummy",
+      "message": "Teks Dummy"
+    },
+    {
+      "sender": "Teks Dummy",
+      "message": "Teks Dummy"
+    },
+    {
+      "sender": "Teks Dummy",
+      "message": "Teks Dummy"
+    }
+  ],
+  "giftBox": [
+    {
+      "title": "Judul Dummy",
+      "description": "Ini adalah deskripsi atau konten teks dummy. Silakan diganti dengan pesan Anda sendiri."
+    },
+    {
+      "title": "Judul Dummy",
+      "description": "Ini adalah deskripsi atau konten teks dummy. Silakan diganti dengan pesan Anda sendiri."
+    },
+    {
+      "title": "Judul Dummy",
+      "description": "Ini adalah deskripsi atau konten teks dummy. Silakan diganti dengan pesan Anda sendiri."
+    },
+    {
+      "title": "Judul Dummy",
+      "description": "Ini adalah deskripsi atau konten teks dummy. Silakan diganti dengan pesan Anda sendiri."
+    },
+    {
+      "title": "Judul Dummy",
+      "description": "Ini adalah deskripsi atau konten teks dummy. Silakan diganti dengan pesan Anda sendiri."
+    },
+    {
+      "title": "Judul Dummy",
+      "description": "Ini adalah deskripsi atau konten teks dummy. Silakan diganti dengan pesan Anda sendiri."
+    }
+  ],
+  "anniversaryCountdown": {
+    "date": "1 Januari 2026"
+  }
+}
